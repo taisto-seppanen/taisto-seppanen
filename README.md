@@ -17,7 +17,6 @@ In 2021 i finised advanced training courses of modern web development.
 - Sipmle [snake game](https://taisto-seppanen.github.io/Snake/ "Snake Game")
 - Trainee website for [cinema booking](https://cinimabooking.herokuapp.com/ "cinema booking") with admin page (/login) and database at Firebase
 - Trainee website for [Louvre](https://rolling-scopes-school.github.io/taisto-seppanen-JSFEPRESCHOOL/museum/)
-- Trainee website [Louvre](https://rolling-scopes-school.github.io/taisto-seppanen-JSFEPRESCHOOL/museum/)
 - Trainee website [wildlife](https://rolling-scopes-school.github.io/taisto-seppanen-JSFE2021Q1/wildlife/)
 
 
