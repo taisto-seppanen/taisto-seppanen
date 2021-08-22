@@ -24,34 +24,6 @@ In 2021 i finised advanced training courses of modern web development.
 
 My english level is A2, but I can easily read documentation and technical literature.
 
-### Code examples
-
-    import firebase from "firebase/app";
-
-    export async function setNewFilm(newfilm) {
-      await firebase
-        .database()
-        .ref("films/")
-        .set({ newfilm });
-    }
-
-    export async function getFilms() {
-      let filmsArr = [];
-      await firebase
-        .database()
-        .ref("films/")
-        .get()
-        .then(snapshot => {
-          if (snapshot.exists()) {
-            filmsArr = snapshot.val().newfilm;
-          } else {
-            console.warn("bad request");
-          }
-        });
-      return filmsArr;
-    }
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taisto-seppanen)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
